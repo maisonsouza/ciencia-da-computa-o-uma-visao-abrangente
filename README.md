@@ -4,8 +4,31 @@
 ## Introduçao
 
 #### O papel dos algoritmos
+Algoritmo
+```
+É um conjunto de passos que define como uma tarefa é realizada.
+```
+Programa
+```
+A representação de um algoritmo é chamada de programa.
+```
+Programação
+```
+O processo de desenvolver um programa, codificando-o em um um formato compatível de máquina, e inserí-lo em uma máquina.
+```
+Software e Hardware
+```
+Os programas e os algoritmos que eles representam são coletivamente chamados de software, em contraste o maquinário propriamente dito, que é conhecido como hardware.
+```
+
+O estudo de algoritmos iniciou com o estudos matemáticos.
 
 #### A história da computação
+Ábaco
+Ada Lovelace a primeira programadora do mundo.
+
+
+
 
 #### A ciência dos algoritmos
 
