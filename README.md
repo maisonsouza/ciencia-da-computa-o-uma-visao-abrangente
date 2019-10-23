@@ -1,4 +1,5 @@
 # Ciência da Computaçao uma visão abrangente.
+![](https://images-na.ssl-images-amazon.com/images/I/91V0bBrrhKL.jpg)
 
 ## Introduçao
 
