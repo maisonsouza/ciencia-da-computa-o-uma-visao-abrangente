@@ -39,6 +39,15 @@ Ada Lovelace a primeira programadora do mundo.
 #### Repercussões sociais.
 
 ## Armazenamento de Dados.
+```
+Como a informação é codoficada e armazenada dentro dos computadores. Dentro dos computadores atuais a informação é codificada por meio de padrões de 0s e 1s
+Esses dígitos são chamados de bits, não estão associados a valores númericos, são apenas símbolos que depende da aplicação em questão, podem representar um caractere,imagens, valores númericos ou sons.
+```
+
+#### Bits e seu armazenamento
+```
+
+```
 
 ## Manipulação de Dados.
 
