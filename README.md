@@ -1,9 +1,10 @@
 # Ciência da Computaçao uma visão abrangente.
 ![](https://images-na.ssl-images-amazon.com/images/I/91V0bBrrhKL.jpg)
 
-## Introduçao
+## Introdução
 
 #### O papel dos algoritmos
+
 Algoritmo
 ```
 É um conjunto de passos que define como uma tarefa é realizada.
@@ -60,6 +61,26 @@ Esses dígitos são chamados de bits, não estão associados a valores númerico
 ## Linguagens de Progrmação.
 
 ## Engenharia de Software.
+
+### Teste de software
+* Uma metodologia utilizada em testes é o testes em áreas concentradas, pois a experiência demonstra
+que os erros em sistemas de software tendem a ser agregados. Essa técnica baseasse na proposição conhecida
+como **Princípio de Pareto**
+* Outra metodologia de testes, chamada de **testes de caminho básico** compreende um conjunto de dados de teste
+que garantem que cada instrução será executada ao menos uma vez.Essa técnica recebe apoio da área da matemática 
+conhecida como **teoria de grafos**.
+* Técnicas baseadas no príncipio de Pareto e teste de caminho branco, dependem do conhecimento acerca da composição
+interna da porção de software que está sendo executada.Eles então caem em uma categoria chamada
+**testes de caixa branca**.
+* Em contraponto existem testes que não dependem do conhecimento da composição interna da porção de software que está sendo 
+testada essa categoria de testes é conhecida como **testes de caixa preta**.
+
+* Um exemplo de teste de caixa preta é a **análise de valores limite**, que consiste em identificar faixa de dados, chamados de **classe 
+de equivalência**, sobre as quais o sistema deve se comportar de forma similar e então testar o sistema em dados próximos a essa
+faixa.
+* Outra metodologia que está na categoria teste de caixa preta são os **testes beta**, nos quais as versões preliminares do sistema
+são disponibilizados para um segmento da audiência, com o objetivo de aprender como a versão se comporta antes do lançamento.
+
 
 ## Abstrações de Dados.
 
